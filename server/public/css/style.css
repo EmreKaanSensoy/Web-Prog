@@ -1,0 +1,58 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.img-thumbnail {
+    border: 1px solid #dee2e6;
+}
+
+#map {
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+    z-index: 0;
+}
+
+/* Leaflet harita stilleri */
+.leaflet-container {
+    height: 500px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.badge {
+    font-weight: normal;
+}
+
+.card-img-top {
+    transition: transform 0.3s;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}

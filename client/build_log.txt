@@ -1,0 +1,14 @@
+[31m✗[39m Build failed in 82ms
+[31merror during build:
+[31m[@tailwindcss/vite:generate:build] Cannot apply unknown utility class `font-display`[31m
+file: [36mC:/Users/Emre Kaan/Desktop/turizm/client/src/index.css[31m
+    at onInvalidCandidate (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:21:1511)
+    at Ce (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:16:36652)
+    at file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:21:355
+    at br (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:3:1718)
+    at I (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:3:1377)
+    at Ae (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:21:172)
+    at Wi (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:38:294)
+    at async Za (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:38:631)
+    at async rf (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:38:1406)
+    at async lu (file:///C:/Users/Emre%20Kaan/Desktop/turizm/client/node_modules/@tailwindcss/node/dist/index.mjs:10:3458)[39m
